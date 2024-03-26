@@ -1,0 +1,1 @@
+# Spring boot maven multi-modules scaffold
